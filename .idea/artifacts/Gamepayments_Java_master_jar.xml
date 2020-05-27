@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gamepayments-Java-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gamepayments_Java_master_jar</output-path>
+    <root id="archive" name="Gamepayments-Java-master.jar">
+      <element id="module-output" name="Gamepayments-Java-master" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libraries/javax.inject.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libraries/lombok.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
